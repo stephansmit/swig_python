@@ -1,6 +1,6 @@
 # Swig with Python
 
-Example how to create a python interface to a c code.
+Example how to create a python interface to a c-code using [Swig](http://www.swig.org/).
 
 ## Requirements
 ~~~~
